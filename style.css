@@ -691,6 +691,12 @@ section {
   gap: var(--spacing-3xl);
 }
 
+.contact-info {
+  border: 2px solid var(--border-color);
+  border-radius: var(--border-radius-xl);
+  padding: var(--spacing-2xl);
+}
+
 .contact-info h3 {
   font-size: var(--font-size-2xl);
   margin-bottom: var(--spacing-lg);
