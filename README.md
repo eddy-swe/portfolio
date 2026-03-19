@@ -1,4 +1,4 @@
-### Live demo: [Portfolio](https://eddy-swe.github.io/portfolio/)
+### Live demo: [Portfolio](https://eddy-swe.github.io/portfolio/){target="_blank"}
 
 # Eddy's Portfolio
 
