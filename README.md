@@ -1,4 +1,4 @@
-### Live demo: [Portfolio](https://eddy-swe.github.io/portfolio/){target="_blank"}
+### Live demo: <a target="_blank" href="https://eddy-swe.github.io/portfolio/">-> Portfolio <- <a/>
 
 # Eddy's Portfolio
 
