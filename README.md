@@ -1,4 +1,4 @@
-### Live demo: <a target="_blank" href="https://eddy-swe.github.io/portfolio/">-> Portfolio <- <a/>
+### Live demo: <a target="_blank" href="https://eddy-swe.github.io/portfolio/">-- Portfolio -- <a/>
 
 # Eddy's Portfolio
 This is a portfolio website built using React and Tailwind CSS. It showcases my projects, skills, and experience in web development.
@@ -39,6 +39,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 None
-
-## Credits
-- 
